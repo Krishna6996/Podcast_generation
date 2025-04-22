@@ -28,5 +28,6 @@ A fully automated end-to-end pipeline that converts user-provided text or audio 
 5. Audio Stitching: Merge voice + SFX using Pydub or FFmpeg
 6. Output: Final polished podcast episode (.mp3/.wav)
 
-
+##working demo
+https://youtu.be/zmwE_D1knyw?si=Wo4LOl9y2V-jam7v
 
